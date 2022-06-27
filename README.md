@@ -1,6 +1,6 @@
 # Finding Heavy Traffic Indicators on I-94
 
-In this project, we will analysed a dataset about the westbound traffic of the I-94 Interstate highway. The dataset was made available by John Hogue and can be found [here](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
+In this project, we analysed a dataset about the westbound traffic of the I-94 Interstate highway. The dataset was made available by John Hogue and can be found [here](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
 
 Our analysis aimed to determine a few indicators of heavy traffic on I-94. Understanding what indicators contribute to the severity of traffic could aid in making informed and data-driven decisions on how to prepare and potentially reduce the impact of these.
 
